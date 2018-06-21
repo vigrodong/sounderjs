@@ -1,0 +1,23 @@
+{
+  "name": "sounderjs",
+  "version": "1.0.0",
+  "description": "a library for ring's control",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vigrodong/sounderjs.git"
+  },
+  "keywords": [
+    "ring",
+    "control"
+  ],
+  "author": "wzd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vigrodong/sounderjs/issues"
+  },
+  "homepage": "https://github.com/vigrodong/sounderjs#readme"
+}
